@@ -309,5 +309,13 @@ body {
   transform: translateZ(50px); /* Adjust the translateZ value as needed */
 }
 
+.project-img-fixed {
+  height: 200px;
+  object-fit: cover;
+  width: 100%;
+}
+
+
+
 
 
