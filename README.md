@@ -19,14 +19,6 @@ This portfolio is a reflection of my journey as a developer. It includes:
 
 ---
 
-## 🖼️ Screenshots
-
-| Landing Page | Projects Section |
-|--------------|------------------|
-| ![Intro](Images/Screenshots/intro.png) | ![Projects](Images/Screenshots/projects.png) |
-
----
-
 ## 🛠️ Tech Stack
 
 - **HTML5**
